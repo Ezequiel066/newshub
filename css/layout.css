@@ -226,6 +226,13 @@ nav a:hover {
     margin-top: 30px;
     margin-bottom: 20px;
 }
+.widget_title_textd {
+    color: #141313;
+    font-size: 21px;
+    font-weight: bold;
+    /* fonte weight deixa a letra negrita */
+    justify-content: end;
+}
 
 .widget_title_text {
     color: #141313;
@@ -284,39 +291,8 @@ nav a:hover {
     align-items: end;
     flex-direction: end;
     display: flex; */
-
 }
 
-.box1 {
-    /* display: flex;
-    flex-direction: column;
-    margin-top: 30px;
-    justify-content: center;
-    position: fixed;
-    margin-bottom: 20x; */
-
-}
-
-.box2 {
-    /* width: 100px;
-    height: 100px;
-    background-color: #39aae1; */
-    /* justify-content: space-between; */
-    /* margin: 60px;
-    position: fixed; */
-
-
-}
-
-.box3 {
-    /* width: 100px;
-    height: 100px;
-    background-color: #39aae1; */
-    /* justify-content: space-between; */
-    /* margin: 60px;
-    position: fixed;
-    bottom: 10px; */
-}
 .flex{
     display: flex;
     flex-wrap: wrap;
@@ -576,4 +552,10 @@ footer .widget_title_text {
   
    } */
 }
+
+}
+
+.widget_title_textd {
+margin-top: 100px;
+
 }
