@@ -464,7 +464,7 @@ footer .widget_title_text {
     height: 5px;
     background-color: #39aae1;
 }
-@media (max-width:600px) {
+@media (max-width:500px) {
     .banner_headline {
         padding: 20px;
     }
@@ -555,6 +555,7 @@ footer .widget_title_text {
    } */
 }
 .widget_title_textd {
-margin-top: 100px;
+margin-top: 180px;
+margin-left: 15px;
 }
 }
