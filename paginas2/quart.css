@@ -1,0 +1,29 @@
+body {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: "Briem Hand", cursive;
+
+}
+h4 {
+    color:rgb(42, 42, 116)
+}
+h1{
+    color: #000;
+    border: 5px solid darkgreen;
+}
+table {
+    width: 600px;
+    border: 1px solid #000;}
+
+table thead { 
+    border: 1px solid #000; 
+    background-color: rgb(184, 184, 220);
+}
+ table tbody{
+    background-color: orange;
+    padding: 10px;
+    text-align: left;
+}
+tr:hover{
+    background-color: rgb(149, 104, 104);
+}

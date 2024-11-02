@@ -1,0 +1,92 @@
+figure {
+    text-align: center;
+    border: 2px solid #000;
+    margin: 0;
+}
+
+
+
+
+
+/* html {
+    background-color: rgb(248, 236, 236);
+}
+
+body {
+    color: rgb(15, 15, 15);
+}
+
+footer {
+    background-color: rgb(21, 140, 71);
+    font-size: 800px, rgb(0, 0, 0);
+    font-weight: bold;
+
+}
+
+nav {
+
+    bottom: 100px;
+}
+
+@media (color) {
+    h2 {
+        font-size: 6px;
+        background-color: blue;
+    } */
+
+/* } */
+/* @keyframes exemplo {
+    0% {
+        background-color: red;
+        top: 0px;
+        left: 0px;
+    }
+
+    25% {
+        background-color: yellow;
+        top: 0px;
+        left: 200px;
+    }
+
+    50% {
+        background-color: green;
+        top: 200px;
+        left: 200px;
+    }
+
+    75% {
+        background-color: blue;
+        top: 200px;
+        left: 0px;
+    }
+
+    100% {
+        background-color: aquamarine;
+        top: 0px;
+        left: 0px;
+    }
+
+} */
+
+/* body {
+    margin: 0;
+} */
+/* 
+.teste {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(12, 13, 12);
+    margin:auto;
+    margin-top: 100px;
+    transition: all 3s linear; */
+
+/* animation-name: exemplo;
+    animation-duration: 6s;
+    position:absolute;
+    animation-delay: 2s;
+    animation-iteration-count: 2; */
+/* }
+.teste:hover {
+    background-color: red;
+    width: 300px;
+} */

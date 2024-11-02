@@ -1,0 +1,23 @@
+ #titulo {
+
+    background:greenyellow;
+ }
+h1 {
+    color: rgb(200, 0, 220);
+}
+a {color:peru;
+    font-size: 50px
+    
+}
+ol li {color: blueviolet;
+border: 4px solid #0f0;
+} 
+
+.texto {
+
+    color:crimson;
+}
+
+
+
+

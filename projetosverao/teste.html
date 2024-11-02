@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina</title>
+    <link rel="stylesheet" href="fielset.css" />
+</head>
+
+</html>
+
+<body>
+    <form method="POST" action="bblblanlana.php">
+        <input type="hidden" name="country" value="BR">
+        <fieldset>
+            <legend>Dados pessoais</legend>
+            <label></br>
+                Primeiro nome: </br>
+                <input type="text" name="name " required />
+            </label>
+            <label></br>
+                Sobrenome: </br>
+                <input type="text" name="lastname" required  minlength="2"/>
+            </label>
+            <label></br>
+                Foto: </br>
+                <input type="file" name="photo" accept="application/pdf"/>
+            </label>
+            <label></br>
+                Data de nascimento: </br>
+                <input type="date" name="birthdate" min="1808-01-01"/>
+            </label>
+            <label></br>
+                CPF: </br>
+                <input type="number" required/>
+            </label>
+            <label></br>
+                E-mail: </br>
+                <input type="email" name="E-mail" />
+            </label>
+        </fieldset>
+
+        <fieldset> 
+            <legend> Dados profissionais </legend>
+            <label></br>
+                Nome da empresa: </br>
+                <input type="text" name="companyname" />
+            </label>
+            <label></br>
+                Cargo na empresa: </br>
+                <input type="text" name="companyjobtitle" />
+            </label>
+            <input type="submit" value="Cadastrar" />
+        </fieldset>
+
+</body>
+
+
+<!-- 
+<h1>Seja bem vindo (a)</h1>
+<h2>Seja bem vindo (a)</h2>
+<h3>Seja bem vindo (a)</h3>
+<h4>Seja bem vindo (a)</h4>
+
+<hr>
+
+<p>Você é especial</p>
+<strong> texto <u>legal</u> </strong> -->
