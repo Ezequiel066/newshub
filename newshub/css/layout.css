@@ -226,13 +226,6 @@ nav a:hover {
     margin-top: 30px;
     margin-bottom: 20px;
 }
-.widget_title_textd {
-    color: #141313;
-    font-size: 21px;
-    font-weight: bold;
-    /* fonte weight deixa a letra negrita */
-    justify-content: end;
-}
 
 .widget_title_text {
     color: #141313;
@@ -554,7 +547,7 @@ footer .widget_title_text {
   
    } */
 }
-.widget_title_textd {
+.widget_title_text {
 margin-top: 180px;
 margin-left: 15px;
 background-color: yellowgreen;
