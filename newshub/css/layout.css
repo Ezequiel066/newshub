@@ -227,6 +227,7 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
+
 .widget_title_text {
     color: #141313;
     font-size: 21px;
@@ -457,7 +458,7 @@ footer .widget_title_text {
     height: 5px;
     background-color: #39aae1;
 }
-@media (max-width:500px) {
+@media (max-width:600px) {
     .banner_headline {
         padding: 20px;
     }
@@ -549,7 +550,6 @@ footer .widget_title_text {
 }
 .widget_title_text {
 margin-top: 180px;
-margin-left: 15px;
-background-color: yellowgreen;
+margin-left: 16px;
 }
 }
